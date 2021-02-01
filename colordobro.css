@@ -1,0 +1,422 @@
+body {
+    background-color: #E5E5E5;
+}       
+.fr {
+   
+position: absolute;
+width: 816px;
+height: 719px;
+left: 474px;
+top: 30px;
+
+background: #F5F8FF;
+border-radius: 6px;
+}
+
+.dan {
+    position: absolute;
+width: 219px;
+height: 30px;
+left: 514px;
+top: 70px;
+
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+color: #455273;
+}
+input {
+    border:none;
+    outline: none;
+}
+.txt {
+
+    position: absolute;
+width: 208.51px;
+height: 15px;
+left: 514px;
+top: 140px;
+
+font-family: 'Courier New', Courier, monospace; 
+/* Поменять шрифт на Cera pro */
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #455273;
+background-color: #F5F8FF;}
+.line {
+    position: absolute;
+width: 328px;
+height: 0px;
+left: 514px;
+top: 163px;
+
+/* Grey */
+
+border: 1px solid #D5DDE0;
+border-radius: 6px;
+}
+
+.ph {
+    position: absolute;
+    width: 127.69px;
+    height: 15px;
+    left: 514px;
+    top: 193px;
+    
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    background-color:  #F5F8FF;
+    /* identical to box height */
+       color: #455273;}
+       .line1 {
+        position: absolute;
+        width: 328px;
+        height: 0px;
+        left: 514px;
+        top: 216px;
+        
+        /* Grey */
+        
+        border: 1px solid #D5DDE0;
+        border-radius: 6px;
+       }
+       .button {
+        
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 514px;
+        top: 246px;
+        
+        background: #418DE8;
+        border-radius: 3px;
+       }
+.por {
+    position: absolute;
+width: 275px;
+height: 15px;
+left: 540px;
+top: 240px;
+
+font-family: Cera Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color:#455273;
+
+}
+.ss {
+    color: #418DE8;
+}
+.whater {
+    position: absolute;
+width: 89.03px;
+height: 15px;
+left: 922px;
+top: 140px;
+
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #455273;
+background-color: #F5F8FF;
+
+}
+.line2 {
+    position: absolute;
+width: 328px;
+height: 0px;
+left: 922px;
+top: 163px;
+
+/* Grey */
+
+border: 1px solid #D5DDE0;
+border-radius: 6px;
+}
+.place {
+    position: absolute;
+width: 246px;
+height: 15px;
+left: 922px;
+top: 193px;
+
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+
+color: #455273;
+background-color:#F5F8FF ;
+
+}
+.line3 {
+    position: absolute;
+width: 328px;
+height: 0px;
+left: 922px;
+top: 216px;
+
+/* Grey */
+
+border: 1px solid #D5DDE0;
+border-radius: 6px;
+}
+.box {
+    position: absolute;
+width: 320px;
+height: 185px;
+left: 77px;
+top: 224px;
+
+}
+.txt2 {
+    position: absolute;
+width: 240px;
+height: 105px;
+left: 117px;
+top: 449px;
+
+font-family:'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* or 150% */
+
+text-align: center;
+
+color: #818FB3;
+
+}
+.voda {
+    position: absolute;
+width: 44px;
+height: 23px;
+left: 514px;
+top: 322px;
+
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #455273;
+
+}
+.twent {
+    position: absolute;
+    width: 140px;
+    height: 180px;
+    left: 514px;
+    top: 365px;
+}
+.ye {
+    position: absolute;
+width: 8px;
+height: 8px;
+left: 605px;
+top: 395px;
+
+background: #FFC369;
+}
+.one {
+    position: absolute;
+width: 140px;
+height: 180px;
+left: 630px;
+top: 365px;
+}
+.yea {
+    position: absolute;
+width: 8px;
+height: 8px;
+left: 721px;
+top: 395px;
+
+background: #D5DDE0;
+
+}
+.zero {
+    position: absolute;
+width: 140px;
+height: 180px;
+left: 746px;
+top: 365px;
+
+}
+.year {
+    position: absolute;
+width: 8px;
+height: 8px;
+left: 837px;
+top: 395px;
+
+background: #D5DDE0;
+}
+#amount {
+    /* ширина поля */
+    width:25px;
+    }
+    .end {
+        position: absolute;
+width: 52px;
+height: 23px;
+left: 514px;
+top: 586px;
+
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #455273;
+    }
+    .line4 {
+        position: absolute;
+width: 736px;
+height: 0px;
+left: 514px;
+top: 619px;
+
+/* Grey */
+
+border: 1px solid #D5DDE0;
+border-radius: 6px;
+    }
+    .zakaz{
+        position: absolute;
+width: 165px;
+height: 40px;
+left: 514px;
+top: 669px;
+
+background: #418DE8;
+border-radius: 20px;
+text-align: center;
+
+color: #FFFFFF;
+    }
+  .date {
+    position: absolute;
+    width: 202px;
+    height: 23px;
+    left: 922px;
+    top: 322px;
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    width: auto;
+    /* identical to box height */
+    
+    
+    color: #455273;
+  }
+  .time {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 922px;
+    top: 456px;
+    
+    background: #E5EDFF;
+    border-radius: 15px;
+
+    
+
+font-family: Cera Pro;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color:#455273;
+  }
+  .time1 {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 1030px;
+    top: 456px;
+    
+    background: #E5EDFF;
+    border-radius: 15px;
+    font-family: Cera Pro;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color:#455273;
+  }
+  .time2 {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 1140px;
+    top: 456px;
+    
+    background: #E5EDFF;
+    border-radius: 15px;
+    font-family:  Cera Pro;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color:#455273;
+  }
+  .ti{
+    position: absolute;
+    width: 34px;
+    height: 13px;
+    left: 930px;
+    top: 425px;
+    
+    font-family: Cera Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    
+    color: #BABDC2;
+    
+  }
+  
